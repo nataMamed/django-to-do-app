@@ -1,6 +1,6 @@
 # :rocket: Django To-Do app
 
-![](github/img/demo.gif)
+![](demo.gif)
 
 ### Based on the To-do app [tutorial](https://www.youtube.com/watch?v=4RWFvXDUmjo&t=810s) by Dennis Ivy
 
